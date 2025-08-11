@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/realEstates/static/css/main.829d425d.css",
-    "main.js": "/realEstates/static/js/main.af3e9ef1.js",
+    "main.js": "/realEstates/static/js/main.2be64a7e.js",
     "static/media/logo.png": "/realEstates/static/media/logo.db113e07abfa35f3f836.png",
     "index.html": "/realEstates/index.html",
     "main.829d425d.css.map": "/realEstates/static/css/main.829d425d.css.map",
-    "main.af3e9ef1.js.map": "/realEstates/static/js/main.af3e9ef1.js.map"
+    "main.2be64a7e.js.map": "/realEstates/static/js/main.2be64a7e.js.map"
   },
   "entrypoints": [
     "static/css/main.829d425d.css",
-    "static/js/main.af3e9ef1.js"
+    "static/js/main.2be64a7e.js"
   ]
 }
